@@ -1,2 +1,18 @@
 
+.card-deck {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.card {
+    border-radius: 5px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
 /* Your CSS Code here. */
